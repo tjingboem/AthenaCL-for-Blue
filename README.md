@@ -1,1 +1,1 @@
-# AthenaCLblue
+# AthenaCL Score Generator
